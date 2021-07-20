@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222039093581",
+    "project_id": "ivri-portal",
+    "storage_bucket": "ivri-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222039093581:android:69baa2836a5b757aa04704",
+        "android_client_info": {
+          "package_name": "com.portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222039093581-0634fohud0nu9upftd8qso8b4lq2uiub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJePtz6mRv8EeeYbHk2al-zMTrJnT8kcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222039093581-0634fohud0nu9upftd8qso8b4lq2uiub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
